@@ -1,2 +1,2 @@
 # AnimatedMenu
-https://biancas-animated-menu.netlify.app/
+https://animatedmenubybianca.netlify.app
